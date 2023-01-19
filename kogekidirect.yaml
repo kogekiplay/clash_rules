@@ -1,0 +1,35 @@
+#Kogeki 直连规则
+#世纪互联 6-49行
+payload:
+  - DOMAIN-SUFFIX,enlienli.com
+  - DOMAIN-KEYWORD,parsec
+  - DOMAIN-SUFFIX,partner.outlook.cn
+  - IP-CIDR,40.73.132.0/24
+  - IP-CIDR,40.73.164.128/25
+  - IP-CIDR,40.73.165.0/26
+  - IP-CIDR,42.159.40.0/24
+  - IP-CIDR,42.159.44.0/22
+  - IP-CIDR,42.159.163.128/25
+  - IP-CIDR,42.159.165.0/24
+  - IP-CIDR,42.159.172.0/22
+  - IP-CIDR,42.159.33.192/27
+  - IP-CIDR,42.159.36.0/24
+  - IP-CIDR,42.159.161.192/27
+  - IP-CIDR,42.159.164.0/24
+  - IP-CIDR,139.219.16.0/27
+  - IP-CIDR,139.219.17.0/24
+  - IP-CIDR,139.219.24.0/22
+  - IP-CIDR,139.219.145.0/27
+  - IP-CIDR,139.219.146.0/24
+  - IP-CIDR,139.219.156.0/22
+  - DOMAIN,attachments.office365-net.cn
+  - DOMAIN-SUFFIX,partner.microsoftonline.cn
+  - DOMAIN-SUFFIX,sharepoint.cn
+  - IP-CIDR,40.73.129.0/24
+  - IP-CIDR,40.73.161.0/24
+  - IP-CIDR,42.159.34.0/27
+  - IP-CIDR,42.159.38.0/23
+  - IP-CIDR,42.159.162.0/27
+  - IP-CIDR,42.159.166.0/23
+  - DOMAIN-KEYWORD,quicdesk
+  - DOMAIN-SUFFIX,sharepoint.com

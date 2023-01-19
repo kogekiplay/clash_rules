@@ -1,0 +1,4 @@
+#Kogeki Reject规则
+payload:
+  - DOMAIN,httpdns.bilivideo.com
+
