@@ -33,3 +33,4 @@ payload:
   - IP-CIDR,42.159.166.0/23
   - DOMAIN-KEYWORD,quicdesk
   - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,mail.sb
