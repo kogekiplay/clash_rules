@@ -34,3 +34,4 @@ payload:
   - DOMAIN-KEYWORD,quicdesk
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,mail.sb
+  - DOMAIN,gist.kogeki.cf
