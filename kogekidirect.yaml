@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,enlienli.com
   - DOMAIN-KEYWORD,parsec
   - DOMAIN-SUFFIX,partner.outlook.cn
   - IP-CIDR,40.73.132.0/24
