@@ -1,5 +1,3 @@
-#Kogeki 直连规则
-#世纪互联 6-49行
 payload:
   - DOMAIN-SUFFIX,enlienli.com
   - DOMAIN-KEYWORD,parsec
