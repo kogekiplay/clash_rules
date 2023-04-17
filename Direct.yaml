@@ -1,17 +1,20 @@
 # NAME: Direct
-# Include: Parsec Onedrive SteamCN
 # AUTHOR: kogekiplay
 # REPO: https://github.com/kogekiplay/clash_rules
 # UPDATED: 2023-03-23
 
 payload:
-
-# 自有
-  - DOMAIN,gist.kogeki.cf
-  - DOMAIN,gh-proxy.com
-  - DOMAIN-SUFFIX,mail.sb
-  - DOMAIN,ghproxy.wushidi.gay
-
-# Parsec
   - DOMAIN-KEYWORD,parsec
+  - DOMAIN-SUFFIX,partner.outlook.cn
+  - DOMAIN,attachments.office365-net.cn
+  - DOMAIN-SUFFIX,partner.microsoftonline.cn
+  - DOMAIN-SUFFIX,sharepoint.cn
+  - DOMAIN-KEYWORD,quicdesk
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,mail.sb
+  - DOMAIN,gist.kogeki.cf
+  - DOMAIN,ghproxy.com
+  - DOMAIN,gh-proxy.com
+  - DOMAIN,ghproxy.wushidi.gay
+  - DOMAIN,api.myip.com
 
