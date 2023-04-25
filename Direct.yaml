@@ -17,4 +17,5 @@ payload:
   - DOMAIN,gh-proxy.com
   - DOMAIN,ghproxy.wushidi.gay
   - DOMAIN,api.myip.com
+  - DOMAIN,substore.kogeki.cf
 
